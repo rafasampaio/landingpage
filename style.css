@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+}
+
+header{
+  width: 100%;
+  background-image: url("images/01.png");
+  height: 400px;
+  color: white;
+  text-align: center;
+}
+
+h1 .text{
+margin-top: 150px;
+}
+
+
+.container {
+  width: 1000px;
+  margin: auto;
+}
+
+.banner {
+  margin-top: -20px;
+  background-image: url("images/02.png");
+  height: 100px;
+}
+.expbox {
+  width: 29.3%;
+  float: left;
+ background-color: black;
+ font-family: arial, sans-serif;
+ font-size: small;
+ color: white;
+ padding: 10px 20px;
+ margin-top: -20px ;
+ margin-bottom: 30px;
+}
+
+.expbox img {
+  width: 50%;
+}
+
+.expbox p{
+  float: right;
+  margin-top: -75px;
+  margin-right: 0px;
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.expbox button{
+  float: none;
+  padding: 10px;
+}
+
+.description {
+  margin-top: 200px;
+}
+.descbox {
+  width: 100%;
+ background-color: #f2f2f2;
+ font-family: arial, sans-serif;
+ font-size: small;
+ padding: 10px 20px;
+ margin: 30px 10px 30px 10px;
+}
